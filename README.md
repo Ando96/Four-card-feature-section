@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/fourcardfeature-html-css-and-flexbox-TnVWU4hob)
 - Live Site URL: [live site](https://ando96.github.io/Four-card-feature-section/)
 
 ## My process
